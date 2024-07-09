@@ -19,7 +19,7 @@ app.get("/", async (req, res) => {
   const response = await result.response;
   const text = await response.text();
 
-  res.send(text);
+  res.json({ response: text });
 });
 
 const server = app.listen(port, () => {
