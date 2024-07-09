@@ -1,4 +1,4 @@
-# Google AI SDK for JavaScript 사용하여 개발
+# Google AI SDK for JavaScript
 
 ---
 
