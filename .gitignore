@@ -26,7 +26,7 @@ lib-cov
 # Coverage directory used by tools like istanbul
 coverage
 *.lcov
-
+apikey.js
 # nyc test coverage
 .nyc_output
 
@@ -159,6 +159,6 @@ dist
 # Ignore all local history of files
 .history
 .ionide
-.apikey.js
+
 
 # End of https://www.toptal.com/developers/gitignore/api/node,visualstudiocode
